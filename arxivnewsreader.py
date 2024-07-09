@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# (c) 2016-2017 Joris Roos <roos.jor@gmail.com>
+# (c) 2016-2017, 2024 Joris Roos <roos.jor@gmail.com>
 # MIT License
 
 ''' ArxivNewsReader '''
